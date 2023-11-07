@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.js": "/react-website/static/js/main.fae7fc1d.js",
+    "static/media/about-one.jpg": "/react-website/static/media/about-one.e4ab4dcb67d97671a641.jpg",
+    "static/media/about-two.jpg": "/react-website/static/media/about-two.07d365dacc2b671b3540.jpg",
+    "static/media/login.png": "/react-website/static/media/login.03471ed2eb589a801738.png",
+    "static/media/about.webp": "/react-website/static/media/about.1654244896f4522fb12e.webp",
+    "static/media/shop-hero.webp": "/react-website/static/media/shop-hero.1f8a625a4413a4763640.webp",
+    "static/media/about-hero.webp": "/react-website/static/media/about-hero.04ee685681ef03de2306.webp",
+    "static/media/herocake-one.webp": "/react-website/static/media/herocake-one.2c4df81f87bc73bf69a9.webp",
+    "static/media/herocake-two.webp": "/react-website/static/media/herocake-two.31752577fea05fedf8ad.webp",
+    "static/media/herocake-three.webp": "/react-website/static/media/herocake-three.3e1d1ac21d6b42776618.webp",
+    "static/media/featured-two.webp": "/react-website/static/media/featured-two.c04433cbf7143f11b6f7.webp",
+    "static/media/featured-three.webp": "/react-website/static/media/featured-three.88e424efb4463d841ac8.webp",
+    "static/media/featured-one.avif": "/react-website/static/media/featured-one.7149a0dbd773fc022a0a.avif",
+    "static/media/featured-four.webp": "/react-website/static/media/featured-four.061adea982be01b5aa8c.webp",
+    "static/media/cake-one.webp": "/react-website/static/media/cake-one.b6b7ad0f0326c06462f3.webp",
+    "static/media/cake-three.webp": "/react-website/static/media/cake-three.b5f4ca74a618b3ab0576.webp",
+    "static/media/cake-eight.webp": "/react-website/static/media/cake-eight.a48f2afc6da1d710b2f4.webp",
+    "static/media/cake-seven.webp": "/react-website/static/media/cake-seven.32c06f48da649fccdd6c.webp",
+    "static/media/cake-two.webp": "/react-website/static/media/cake-two.22ee6df91ca941e6109c.webp",
+    "static/media/cake-four.webp": "/react-website/static/media/cake-four.3533ed400b4953258e9d.webp",
+    "static/media/cake-six.webp": "/react-website/static/media/cake-six.063dfc27b5daf13c2c51.webp",
+    "static/media/cake-five.webp": "/react-website/static/media/cake-five.69855aeec82451069c2d.webp",
+    "static/media/logo.webp": "/react-website/static/media/logo.d1fa69d5783ef460b312.webp",
+    "index.html": "/react-website/index.html",
+    "main.fae7fc1d.js.map": "/react-website/static/js/main.fae7fc1d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.fae7fc1d.js"
+  ]
+}
